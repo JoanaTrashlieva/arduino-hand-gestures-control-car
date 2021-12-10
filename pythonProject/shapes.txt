@@ -1,0 +1,24 @@
+[1,1,1,1,1] -- all opened
+[0,0,0,0,0] -- all closed
+[thumb, index, middle, ring, pinkie]
+
+Forward:
+#thumb is higher than index finger
+[1,1,1,1,1]
+
+Backward:
+#all fingers are opened
+[1,1,1,1,1]
+
+Left:
+#index and thumb are open
+[1,1,0,0,0]
+
+Right:
+#index, middle finger and thumb are opened
+[1,1,1,0,0]
+
+Stop:
+#all but thumb are closed
+[1,0,0,0,0]
+
