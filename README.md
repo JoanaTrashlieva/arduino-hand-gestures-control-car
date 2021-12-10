@@ -1,4 +1,4 @@
-# Obstacle avoidance Arduino controlled car
+# Arduino controlled car with hand gestures from OpenCV
  Using a pre-built [Arduino kit](https://www.ebay.co.uk/itm/Smart-Car-Smart-Robot-Car-Chassis-Kit-Tracking-Motor-2WD-Ultrasonic-Arduino-MCU/274068571943?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649d) I connected the parts (including some additionaly bought) and wrote Arduino C code using the Arduino IDE to move the car whilst avoiding any objects in its path.
 
 # Installation instructions
